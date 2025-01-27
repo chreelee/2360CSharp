@@ -1,0 +1,14 @@
+e:\Libraries\ExamplesWeek1\WeekOne\bin\Debug\net9.0\WeekOne.exe
+e:\Libraries\ExamplesWeek1\WeekOne\bin\Debug\net9.0\WeekOne.deps.json
+e:\Libraries\ExamplesWeek1\WeekOne\bin\Debug\net9.0\WeekOne.runtimeconfig.json
+e:\Libraries\ExamplesWeek1\WeekOne\bin\Debug\net9.0\WeekOne.dll
+e:\Libraries\ExamplesWeek1\WeekOne\bin\Debug\net9.0\WeekOne.pdb
+e:\Libraries\ExamplesWeek1\WeekOne\obj\Debug\net9.0\WeekOne.GeneratedMSBuildEditorConfig.editorconfig
+e:\Libraries\ExamplesWeek1\WeekOne\obj\Debug\net9.0\WeekOne.AssemblyInfoInputs.cache
+e:\Libraries\ExamplesWeek1\WeekOne\obj\Debug\net9.0\WeekOne.AssemblyInfo.cs
+e:\Libraries\ExamplesWeek1\WeekOne\obj\Debug\net9.0\WeekOne.csproj.CoreCompileInputs.cache
+e:\Libraries\ExamplesWeek1\WeekOne\obj\Debug\net9.0\WeekOne.dll
+e:\Libraries\ExamplesWeek1\WeekOne\obj\Debug\net9.0\refint\WeekOne.dll
+e:\Libraries\ExamplesWeek1\WeekOne\obj\Debug\net9.0\WeekOne.pdb
+e:\Libraries\ExamplesWeek1\WeekOne\obj\Debug\net9.0\WeekOne.genruntimeconfig.cache
+e:\Libraries\ExamplesWeek1\WeekOne\obj\Debug\net9.0\ref\WeekOne.dll
