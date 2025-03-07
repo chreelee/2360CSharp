@@ -1,0 +1,14 @@
+e:\Libraries\ExamplesWeek1\Assignment9\bin\Debug\net9.0\Assignment9.exe
+e:\Libraries\ExamplesWeek1\Assignment9\bin\Debug\net9.0\Assignment9.deps.json
+e:\Libraries\ExamplesWeek1\Assignment9\bin\Debug\net9.0\Assignment9.runtimeconfig.json
+e:\Libraries\ExamplesWeek1\Assignment9\bin\Debug\net9.0\Assignment9.dll
+e:\Libraries\ExamplesWeek1\Assignment9\bin\Debug\net9.0\Assignment9.pdb
+e:\Libraries\ExamplesWeek1\Assignment9\obj\Debug\net9.0\Assignment9.GeneratedMSBuildEditorConfig.editorconfig
+e:\Libraries\ExamplesWeek1\Assignment9\obj\Debug\net9.0\Assignment9.AssemblyInfoInputs.cache
+e:\Libraries\ExamplesWeek1\Assignment9\obj\Debug\net9.0\Assignment9.AssemblyInfo.cs
+e:\Libraries\ExamplesWeek1\Assignment9\obj\Debug\net9.0\Assignment9.csproj.CoreCompileInputs.cache
+e:\Libraries\ExamplesWeek1\Assignment9\obj\Debug\net9.0\Assignment9.dll
+e:\Libraries\ExamplesWeek1\Assignment9\obj\Debug\net9.0\refint\Assignment9.dll
+e:\Libraries\ExamplesWeek1\Assignment9\obj\Debug\net9.0\Assignment9.pdb
+e:\Libraries\ExamplesWeek1\Assignment9\obj\Debug\net9.0\Assignment9.genruntimeconfig.cache
+e:\Libraries\ExamplesWeek1\Assignment9\obj\Debug\net9.0\ref\Assignment9.dll
